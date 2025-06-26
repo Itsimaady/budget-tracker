@@ -35,5 +35,3 @@ A simple and intuitive budget tracking application that lets users input expense
 
 ---
 
-## 📂 Project Structure
-
